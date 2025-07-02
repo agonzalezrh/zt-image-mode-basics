@@ -21,3 +21,7 @@ tabs:
     url: /wetty/ssh/root
   - name: "Bootc VM"
     url: /wetty_bootc_vm/ssh/root
+    modules:
+      - 02-deploy-an-image
+      - 03-add-software-to-image
+      - 04-apply-image
